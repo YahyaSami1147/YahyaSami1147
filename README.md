@@ -18,8 +18,13 @@ BabyBCH: Helping grow the BCH ecosystem and making crypto fun!
 
 
 🛠 Skills
+
 Programming Languages: C , C++ , Javascript , HTML , CSS
+
+
 Frameworks & Tools: Docker
+
+
 Other: Blockchain Development, Smart Contracts
 
 
