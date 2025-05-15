@@ -20,8 +20,6 @@ Here are some highlights from my work:
 Programming Languages: C , C++ , Javascript , HTML , CSS
 
 
-Frameworks & Tools: Docker
-
 
 Other: Blockchain Development, Smart Contracts
 
