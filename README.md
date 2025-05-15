@@ -14,8 +14,6 @@ Open Source: Collaborating and sharing knowledge within the developer community.
 
 📂 Projects
 Here are some highlights from my work:
-BabyBCH: Helping grow the BCH ecosystem and making crypto fun!
-
 
 🛠 Skills
 
