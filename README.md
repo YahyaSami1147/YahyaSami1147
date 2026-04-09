@@ -127,10 +127,21 @@ Total Repositories: 17 | Full Stack Projects | Database Solutions | Blockchain E
 
 <p align="center">
 
-**Email** | **Twitter** | **GitHub** | **LinkedIn**
----|---|---|---
-[yahyasami119@gmail.com](mailto:yahyasami119@gmail.com) | [@YahyaSami119](https://x.com/YahyaSami119) | [YahyaSami1147](https://github.com/YahyaSami1147) | [Yahya Sami](https://linkedin.com/in/yahyasami)
+<a href="mailto:yahyasami119@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a1a" alt="Gmail Badge"/></a>
+&nbsp;&nbsp;
+<a href="https://x.com/YahyaSami119"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1a1a1a" alt="Twitter Badge"/></a>
+&nbsp;&nbsp;
+<a href="https://github.com/YahyaSami1147"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub Badge"/></a>
+&nbsp;&nbsp;
+<a href="https://linkedin.com/in/yahyasami"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn Badge"/></a>
 
+</p>
+
+<p align="center">
+<br/>
+<strong>Let's build something amazing together!</strong>
+<br/>
+Feel free to reach out for collaborations, discussions, or just to connect.
 </p>
 
 ---
