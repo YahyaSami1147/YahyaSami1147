@@ -1,36 +1,32 @@
-<!-- Modern Glassmorphism Header -->
+<!-- Clean Professional Header -->
 <div align="center">
   
-# 🚀 Yahya Sami
+# Yahya Sami
 ### Full Stack Developer | Web Innovator | Blockchain Explorer
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=20&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Crafting+Digital+Solutions+with+Code;React+%7C+Node.js+%7C+MongoDB;Building+Tomorrow's+Web+Today;Passionate+About+Innovation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=18&duration=4000&pause=1000&center=true&vCenter=true&width=800&lines=Crafting+Digital+Solutions+with+Code;React+%7C+Node.js+%7C+MongoDB;Building+Tomorrow's+Web+Today;Passionate+About+Innovation)
 
 </div>
 
 ---
 
-## 💫 About Me
+## About Me
 
-```
-$ whoami
-Full Stack Developer passionate about creating scalable, user-centric web applications.
-I turn complex problems into elegant solutions using modern technologies.
+I am a Full Stack Developer passionate about creating scalable, user-centric web applications. I turn complex problems into elegant solutions using modern technologies.
 
-$ cat interests.txt
-✓ Building end-to-end web applications
-✓ Exploring blockchain & Web3 technologies  
-✓ Open-source development
-✓ Problem-solving through code
-✓ Continuous learning & innovation
-```
+**Interests:**
+- Building end-to-end web applications
+- Exploring blockchain and Web3 technologies  
+- Open-source development
+- Problem-solving through code
+- Continuous learning and innovation
 
-**📍 Location:** Pakistan | **⏰ Timezone:** UTC +05:00  
-**🐦 Twitter:** [@YahyaSami119](https://x.com/YahyaSami119) | **📧 Email:** yahyasami119@gmail.com
+**Location:** Pakistan | **Timezone:** UTC +05:00  
+**Twitter:** [@YahyaSami119](https://x.com/YahyaSami119) | **Email:** yahyasami119@gmail.com
 
 ---
 
-## 🎨 Tech Arsenal
+## Tech Stack
 
 <div align="center">
 
@@ -46,7 +42,7 @@ $ cat interests.txt
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-### Additional
+### Languages
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -56,140 +52,108 @@ $ cat interests.txt
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🏥 Animal Shelter Management System</h3>
-      <p>A comprehensive database solution for managing animal shelter operations efficiently.</p>
-      <p><strong>Tech Stack:</strong> C, C++, Database Design</p>
-      <p><strong>Features:</strong></p>
-      <ul>
-        <li>Animal records management</li>
-        <li>Shelter operations tracking</li>
-        <li>Advanced data querying</li>
-      </ul>
-      <p>
-        <a href="https://github.com/YahyaSami1147/ANIMAL-SHELTER-MANAGEMENT-SYSTEM">
-          <strong>→ View Repository</strong>
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3>📚 More Projects Coming</h3>
-      <p>I'm actively building more amazing projects. Explore my repositories for:</p>
-      <p><strong>What's Cooking:</strong></p>
-      <ul>
-        <li>Full-stack web applications</li>
-        <li>Blockchain solutions</li>
-        <li>Database optimization</li>
-        <li>Open-source contributions</li>
-      </ul>
-      <p>
-        <a href="https://github.com/YahyaSami1147?tab=repositories">
-          <strong>→ View All Projects</strong>
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
+### Animal Shelter Management System
+A comprehensive database solution for managing animal shelter operations efficiently.
+
+**Technology:** C, C++, Database Design
+
+**Features:**
+- Animal records management
+- Shelter operations tracking
+- Advanced data querying
+- Efficient database design
+
+**Repository:** [View on GitHub](https://github.com/YahyaSami1147/ANIMAL-SHELTER-MANAGEMENT-SYSTEM)
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
-### Stats Overview
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YahyaSami1147&show_icons=true&theme=radical&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
+### Overall Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YahyaSami1147&show_icons=true&theme=radical)
 
-### Streak Counter
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YahyaSami1147&theme=radical&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff7b54&currStreakNum=58a6ff&sideNums=58a6ff&currStreakLabel=58a6ff&dates=c9d1d9&hide_border=true)
+### Contribution Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YahyaSami1147&theme=radical)
 
-### Activity Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YahyaSami1147&theme=radical&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff7b54&hide_border=true)
+### Most Used Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YahyaSami1147&layout=compact&theme=radical)
 
 </div>
 
 ---
 
-## 🐍 Contribution Snake
+## Current Focus
 
-![Contribution Snake](https://raw.githubusercontent.com/YahyaSami1147/YahyaSami1147/output/github-contribution-grid-snake.svg)
+**Working On:** Full-stack web applications with modern technologies
 
----
+**Learning:** Advanced blockchain development and smart contracts
 
-## 🎯 Current Focus
+**Exploring:** Scalable backend architectures with Node.js
 
-> 🔨 **Building:** Full-stack web applications with modern technologies  
-> 📚 **Learning:** Advanced blockchain development & smart contracts  
-> 🚀 **Exploring:** Scalable backend architectures with Node.js  
-> 🤝 **Open to:** Collaborations on innovative projects
+**Open To:** Collaborations on innovative projects
 
 ---
 
-## 💼 Core Competencies
+## Core Competencies
+
+**Frontend Development**
+- React component architecture
+- HTML5 and CSS3
+- Responsive web design
+- User interface implementation
+
+**Backend Development**
+- Node.js server-side logic
+- Express.js framework
+- RESTful API design
+- Database optimization
+
+**Database Management**
+- MongoDB data modeling
+- Database design and optimization
+- Data querying and indexing
+
+**Blockchain**
+- Smart contract concepts
+- Web3 technologies
+- Cryptocurrency ecosystem knowledge
+
+---
+
+## Connect With Me
 
 <div align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | React, HTML5, CSS3, Responsive Design |
-| **Backend** | Node.js, Express.js, RESTful APIs |
-| **Databases** | MongoDB, Data Modeling, Optimization |
-| **Blockchain** | Smart Contracts, Web3, Cryptocurrencies |
-| **Tools** | Git, GitHub, VS Code, Linux |
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyasami119@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YahyaSami119)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YahyaSami1147)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahyasami)
+
+Feel free to reach out for collaborations or technical discussions!
 
 </div>
 
 ---
 
-## 🌟 Highlights
-
-```
-📈 17 Repositories | 💾 Full Stack Projects | 🔗 Blockchain Explorer | 🌍 Open Source Contributor
-
-Key Achievements:
-  ✅ Built scalable database solutions
-  ✅ Developed responsive web applications
-  ✅ Explored blockchain technologies
-  ✅ Contributed to open-source projects
-  ✅ Continuous learner & innovator
-```
-
----
-
-## 🔗 Connect With Me
+## Profile Views
 
 <div align="center">
 
-[![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yahyasami119@gmail.com)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/YahyaSami119)
-[![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YahyaSami1147)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yahyasami)
-
-**Feel free to reach out for collaborations or just a friendly tech discussion!**
+![Profile Views](https://komarev.com/ghpvc/?username=YahyaSami1147&label=Profile+Views&color=0d1117&style=flat)
 
 </div>
 
 ---
 
-## 📍 Profile Views Counter
+## Philosophy
 
-<div align="center">
+"Every line of code is an opportunity to solve a problem and create impact."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YahyaSami1147&label=PROFILE+VIEWS&color=0d1117&style=flat-square)
-
-</div>
-
----
-
-## 🧠 Philosophy
-
-> *"Every line of code is an opportunity to solve a problem and create impact."*
-
-I'm committed to:
+I am committed to:
 - Writing clean, maintainable code
 - Learning new technologies constantly
 - Building products that matter
@@ -200,18 +164,10 @@ I'm committed to:
 
 <div align="center">
 
-### 🚀 Let's Build Something Amazing Together!
+### Let's Build Something Amazing Together!
 
-```
-if (interested) {
-  return "Let's collaborate!";
-} else {
-  return "Explore my repositories anyway!";
-}
-```
+Made with dedication by Yahya Sami
 
-**Made with ❤️ by Yahya Sami**
-
-*Last Updated: 2026 | Pakistan 🇵🇰*
+Last Updated: 2026 | Pakistan
 
 </div>
