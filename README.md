@@ -51,7 +51,7 @@ I am a passionate Full Stack Developer dedicated to building scalable, innovativ
 ### Animal Shelter Management System
 A comprehensive database application designed for efficient animal shelter operations.
 
-**Technology Stack:** C, C++, Database Design, Data Structures
+**Technology Stack:** HTML, CSS, PHP, Database Design, Data Structures
 
 **Key Features:**
 - Complete animal record management system
