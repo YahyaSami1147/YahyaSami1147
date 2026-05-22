@@ -133,7 +133,7 @@ Total Repositories: 17 | Full Stack Projects | Database Solutions | Blockchain E
 &nbsp;&nbsp;
 <a href="https://github.com/YahyaSami1147"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a1a" alt="GitHub Badge"/></a>
 &nbsp;&nbsp;
-<a href="https://linkedin.com/in/yahyasami"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn Badge"/></a>
+<a href="https://linkedin.com/in/yahyasami1147"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a1a" alt="LinkedIn Badge"/></a>
 
 </p>
 
